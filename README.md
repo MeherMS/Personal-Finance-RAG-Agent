@@ -356,12 +356,6 @@ MIT License - feel free to use for personal or commercial projects
 
 ---
 
-## 🙋 Support
-
-- **Issues**: Open a GitHub issue
-- **Questions**: Discussions tab
-- **Discord**: [Join our community]
-
 ---
 
 ## 📊 Project Status
